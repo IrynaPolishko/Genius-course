@@ -34,6 +34,11 @@
   /* Global styles */
 }
 
+/* Reset margin and padding for all elements */
+* {
+  box-sizing: border-box;
+}
+
 body {
   color: var(--color-primary-dark);
   font-family: "Poppins", sans-serif;
